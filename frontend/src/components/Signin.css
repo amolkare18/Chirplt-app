@@ -1,0 +1,35 @@
+.signin{
+    align-items: center;
+    text-align: center;
+    color:black;
+};
+.login-btn{
+    background-color: #1773EA;
+        border: none;
+        border-radius: 3px;
+        color: white;
+        font-weight: bold;
+        padding: 5px 10px;
+        width: 20%;
+        cursor: pointer;
+        margin-top: 8px;
+}
+.loginForm{
+    background-color: #fff;
+    padding: 30px;
+    margin-top: 5px;
+    border-radius: 1px;
+    align-items: center;
+    text-align: center;
+    color: black;
+}
+.loginForm2
+{
+    background-color: #fff;
+    padding: 30px;
+    margin-top: 5px;
+    border-radius: 1px;
+    align-items: center;
+    text-align: center;
+    color: black;
+}
